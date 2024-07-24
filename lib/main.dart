@@ -46,17 +46,4 @@ class MyRecipeApp extends StatelessWidget {
   }
 }
 
-//toast message exceptions 
-//textformfield validations
-//loading
-//theme-ui helper
-//routes
-//services=1.api,2.firebase
-//add total what you learn in one month
-//spashpage + onboardingpage + welcomepage
-//mvvm architecture follow
-//add all feature sign in with google
-//forgot password
-//password visibility
-//sign in with otp
 
